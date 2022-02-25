@@ -1,4 +1,4 @@
-# Personal-Wallpapers
+# Personal Wallpapers
 
 Repository to easily transfer my personal wallpapers.
 
