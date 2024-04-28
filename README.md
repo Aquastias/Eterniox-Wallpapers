@@ -1,4 +1,4 @@
-# Eterniox Wallpapers
+# Wallpapers
 
 Repository to easily transfer my personal wallpapers.
 
